@@ -1,19 +1,38 @@
-### Hi there, I'm Swayam Kumar Karn 👋
+# Welcome to My GitHub Profile!
 
-<!--[![Linkedin Follow](https://img.shields.io/twitter/follow/anurags71091334?color=1DA1F2&logo=twitter&style=for-the-badge)]() -->
+### Hi there, I'm Swayam Kumar Karn 👋
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
 
 
 ## I'm a  Full Stack Web Developer and Data scientist!!
 
 - 🌱 I’m currently learning to build faster servers.
 - 👯 I’m looking to grab an internship to polish my skills
-- 🥅 2023 Goals: Build projects of every types of software 
+- 🥅 2024 Goals: Build projects of every types of software 
 - ⚡ Fun fact: I love to Rap and make music
 
 
-[<img align="left" alt="Swayam Kumar Karn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Swayam Kumar Karn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Swayam Kumar Karn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Technologies
+
+- Languages: [List of programming languages you are proficient in]
+- Frameworks: [List of frameworks you have experience with]
+- Tools: [List of development tools you frequently use]
+
+## Projects
+
+Here are some of my notable projects:
+
+1. [Project 1](link-to-project1) - Brief description of Project 1.
+2. [Project 2](link-to-project2) - Brief description of Project 2.
+   <!-- Add more projects as needed -->
+
+## Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile/)
+- Email: your.email@example.com
+
+Feel free to connect with me on LinkedIn or reach out through other channels. Let's build something amazing together!
 
 <br />
 
@@ -49,16 +68,6 @@
 <br />
 <br />
 
-### Data Science and Computer Vision :
-
-<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
-<img align="left" alt="pytorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />
-
-
-
-
 
 
 <!-- 
@@ -89,22 +98,14 @@
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/swayamkumarkarn
 
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <!---
 swayamkumarkarn/swayamkumarkarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
