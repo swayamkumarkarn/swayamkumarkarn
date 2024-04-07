@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ### Hi there, I'm Swayam Kumar Karn 👋
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+<a href="https://www.linkedin.com/in/swayam-kumar-karn" > ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue) </a>
 
 
 ## I'm a  Full Stack Web Developer and Data scientist!!
