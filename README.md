@@ -6,6 +6,7 @@
 
 ## I'm a  Full Stack Web Developer and Data scientist!!
 
+- 🚀 Fullstack Developer | Next.js | Express.js | Node.js
 - 🌱 I’m currently learning to build faster servers.
 - 👯 I’m looking to grab an internship to polish my skills
 - 🥅 2024 Goals: Build projects of every types of software 
@@ -28,9 +29,9 @@ Here are some of my notable projects:
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- LinkedIn: [Swayam Kumar Karn's LinkedIn ](https://www.linkedin.com/in/swayam-kumar-karn)
 - Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile/)
-- Email: your.email@example.com
+- Email: swayamkumarkarn@gmail.com
 
 Feel free to connect with me on LinkedIn or reach out through other channels. Let's build something amazing together!
 
