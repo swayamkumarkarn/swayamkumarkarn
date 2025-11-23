@@ -29,7 +29,7 @@
 ## Connect with Me
 
 - LinkedIn: [Swayam Kumar Karn's LinkedIn ](https://www.linkedin.com/in/swayam-kumar-karn)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile/)
+- X (formerly Twitter): [Swayam Kumar Karn's X.com](https://x.com/swayamkumarkarn)
 - Email: swayamkumarkarn@gmail.com
 
 Feel free to connect with me on LinkedIn or reach out through other channels. Let's build something amazing together!
