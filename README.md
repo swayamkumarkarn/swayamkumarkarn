@@ -19,12 +19,11 @@
 - Frameworks: [List of frameworks you have experience with]
 - Tools: [List of development tools you frequently use]
 
-## Projects
+   <!--  ## Projects-->
+  <!-- Here are some of my notable projects:    -->
 
-Here are some of my notable projects:
-
-1. [Project 1](link-to-project1) - Brief description of Project 1.
-2. [Project 2](link-to-project2) - Brief description of Project 2.
+   <!-- 1. [Project 1](link-to-project1) - Brief description of Project 1.
+   2. [Project 2](link-to-project2) - Brief description of Project 2.-->
    <!-- Add more projects as needed -->
 
 ## Connect with Me
