@@ -95,7 +95,7 @@ Feel free to connect with me on LinkedIn or reach out through other channels. Le
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=swayamkumarkarn)](https://github.com/anuraghazra/github-readme-stats)
+[![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=swayamkumarkarn)](https://github.com/swayamkumarkarn/github-readme-stats)
 
 </details>
 
