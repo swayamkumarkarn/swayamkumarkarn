@@ -1,197 +1,222 @@
-# Hi there, I'm Swayam Kumar Karn 👋
+# Hey, I'm Swayam Kumar Karn 👋
+
+### Full-Stack Engineer · AI Engineer · Systems Builder
+
+I build **scalable software, AI-powered products, and distributed systems** — from the interface users see to the infrastructure handling millions of records behind it.
+
+I'm particularly interested in the intersection of:
+
+**Software Engineering × AI × Cloud × Data**
+
+I like taking messy, real-world problems and turning them into systems that are **fast, reliable, scalable, and actually useful.**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/swayam-kumar-karn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/swayamkumarkarn">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:swayamkumarkarn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 What I Do
 
-I'm a **Full Stack Software Engineer** passionate about building scalable web applications, AI-powered products, cloud infrastructure, and distributed systems.
+I enjoy working on problems where **scale, performance and intelligence** matter.
 
-Currently working as a **Software Development Engineer** where I design high-performance backend systems, AI workflows, and data platforms serving millions of records.
-
-I enjoy solving complex engineering problems involving:
-
-- ⚡ High-performance backend architecture
-- 🤖 AI & LLM applications
-- ☁️ Cloud Infrastructure (AWS & Azure)
-- 📊 Large-scale data engineering
-- 🔍 Search & OSINT systems
-- 🚀 Performance optimization
-
-Outside coding you'll probably find me writing poetry, making indie music or rapping.
+* 🤖 Build AI/LLM applications and intelligent workflows
+* ⚡ Design event-driven and distributed backend systems
+* 📊 Build ETL pipelines for large-scale datasets
+* ☁️ Architect cloud infrastructure using AWS & Azure
+* 🔎 Build search, knowledge-base and OSINT systems
+* 🚀 Optimize APIs, databases and data-processing pipelines
+* 🖥️ Build full-stack products from idea → production
 
 ---
 
-# 💼 Current Focus
+## 🔥 Currently Building
 
-- 🚀 Building scalable AI products
-- 🤖 Multi-agent systems & LLM workflows
-- 📊 Data Engineering & ETL Pipelines
-- ☁️ AWS Serverless Architecture
-- ⚡ Event-driven Microservices
-- 🌍 Looking for Remote Software Engineering opportunities
+> **The next thing is always more interesting than the last one.**
 
----
+### 🤖 AI & Agentic Systems
 
-# 🛠 Tech Stack
+Exploring **LLM agents, multi-agent architectures, RAG, semantic search and autonomous workflows**.
 
-## Languages
+### ☁️ Distributed Systems
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+Deepening my work with **event-driven architectures, queues, serverless systems and scalable backend infrastructure**.
 
----
+### 📊 Data at Scale
 
-## Frontend
+Working with systems that process **millions of records** and designing pipelines that remain reliable as the data grows.
 
-- Next.js
-- React
-- React Native
-- Electron
-- Tailwind CSS
-- HTML5
-- CSS3
+### 🌍 Open to Opportunities
+
+Currently exploring **Software Engineer / Full-Stack / AI Engineer** opportunities where I can work on challenging engineering problems.
 
 ---
 
-## Backend
+# 🏗️ Things I've Built
 
-- Node.js
-- Express.js
-- FastAPI
-- REST APIs
-- GraphQL
-- WebSockets
+### 🤖 AI-Powered Fundraising Platform
 
----
+Built systems for an AI-driven fundraising platform including:
 
-## AI & Data
+* Nonprofit discovery
+* Donor intelligence
+* Intelligent search
+* Document processing
+* AI knowledge bases
+* LLM-powered workflows
 
-- Azure OpenAI
-- Google Gemini
-- LangChain
-- Vector Search
-- ETL Pipelines
-- Prompt Engineering
-- RAG Systems
+**Stack:** `Python` `Node.js` `FastAPI` `Azure OpenAI` `Gemini` `AWS` `Azure SQL` `DynamoDB`
 
 ---
 
-## Databases
+### 🌎 Large-Scale Nonprofit Data Platform
 
-- Azure SQL
-- PostgreSQL
-- MongoDB
-- DynamoDB
-- MySQL
-- Firebase Firestore
+Built data pipelines and infrastructure for a large nonprofit repository containing **millions of records across multiple countries**.
 
----
+Worked on:
 
-## Cloud & DevOps
+* Large-scale ingestion
+* Data cleaning & transformation
+* ETL pipelines
+* Search optimization
+* DynamoDB data modeling
+* SQL optimization
+* Scalable processing
 
-- AWS Lambda
-- EventBridge
-- SQS
-- S3
-- CloudFront
-- EC2
-- Docker
-- Nginx
-- GitHub Actions
-- Azure
-- Google Cloud
+**Stack:** `Python` `AWS` `DynamoDB` `Azure SQL` `ETL`
 
 ---
 
-## Tools
+### ⚡ Event-Driven Architecture
 
-- Git
-- GitHub
-- Postman
-- Redis
-- n8n
-- Firebase
-- Infisical
-- PostHog
-- Datadog
+Designed asynchronous systems using:
+
+`EventBridge → SQS → Lambda → Database`
+
+Used event-driven architecture to decouple services, handle background processing and improve system scalability.
 
 ---
 
-# 📈 What I've Built
+### 🖥️ Remote Mouse
 
-### 🤖 AI Fundraising Platform
+Built a cross-computer remote mouse system capable of controlling another machine over a LAN.
 
-Built AI-powered systems for nonprofit discovery, donor intelligence, document processing and intelligent search using Azure OpenAI and Gemini.
+Features include:
 
----
+* Real-time mouse movement
+* Click & double-click
+* Scrolling
+* Device discovery
+* WebSocket communication
+* Server / Client mode
+* Global keyboard shortcut
+* Electron desktop application
 
-### 🌍 Large Scale Nonprofit Repository
-
-Built pipelines handling millions of nonprofit records across multiple countries with optimized search and scalable infrastructure.
-
----
-
-### ⚡ Event Driven Systems
-
-Designed AWS EventBridge + SQS + Lambda based architecture for asynchronous workflows and distributed processing.
-
----
-
-### 📊 ETL Pipelines
-
-Developed Python pipelines to ingest, clean, transform and process millions of records efficiently.
+**Stack:** `Electron` `Node.js` `WebSocket` `PowerShell` `RobotJS`
 
 ---
 
-### 📱 Government Projects
+### 🏛️ Citizen & Government Platforms
 
-Developed citizen-facing portals and management systems including payment gateways, OTP verification, dashboards and analytics.
+Built production systems involving:
+
+* Citizen registration
+* Payment gateways
+* OTP authentication
+* Admin dashboards
+* Analytics
+* Large user traffic
+
+**Stack:** `Next.js` `Node.js` `Razorpay` `GCP` `MSG91`
 
 ---
 
-# 📊 GitHub Stats
+# 🧰 My Engineering Toolbox
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### Frontend
+
+`Next.js` `React` `React Native` `Electron` `Tailwind CSS` `HTML` `CSS`
+
+### Backend
+
+`Node.js` `Express.js` `FastAPI` `REST` `GraphQL` `WebSockets`
+
+### AI / GenAI
+
+`Azure OpenAI` `Google Gemini` `LangChain` `RAG` `Vector Search` `Semantic Search` `Prompt Engineering` `AI Agents`
+
+### Databases
+
+`DynamoDB` `PostgreSQL` `Azure SQL` `MongoDB` `MySQL` `Firestore`
+
+### Cloud & Infrastructure
+
+`AWS` `Azure` `GCP` `Lambda` `SQS` `EventBridge` `S3` `CloudFront` `EC2` `Docker` `Nginx` `GitHub Actions`
+
+### Tools
+
+`Git` `GitHub` `Redis` `Postman` `n8n` `Infisical` `PostHog` `Datadog`
+
+---
+
+# 📈 GitHub
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=swayamkumarkarn&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamkumarkarn&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=swayamkumarkarn&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamkumarkarn&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamkumarkarn&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🧠 Beyond Code
 
-<p align="center">
+When I'm not debugging production systems, I'm probably doing something completely different.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamkumarkarn&theme=tokyonight&hide_border=true"/>
+🎤 **Rap & Hip-Hop**
+🎵 **Indie Music Production**
+✍️ **Poetry & Writing**
+💡 **Building random side projects**
 
+I enjoy creating things — whether it's **software, music, or ideas.**
+
+---
+
+# 🤝 Let's Connect
+
+If you're building something interesting around **AI, distributed systems, data, or developer tools**, I'd love to talk.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/swayam-kumar-karn">LinkedIn</a> ·
+  <a href="https://x.com/swayamkumarkarn">X</a> ·
+  <a href="mailto:swayamkumarkarn@gmail.com">Email</a>
 </p>
 
 ---
 
-# 📫 Connect With Me
+<p align="center">
+  <i>"Build things that are useful. Make them scale. Then build something crazier."</i>
+</p>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/swayam-kumar-karn
-- 🐦 X: https://x.com/swayamkumarkarn
-- 📧 Email: swayamkumarkarn@gmail.com
-
----
-
-> *"Building software that scales. Creating AI that solves real-world problems."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swayamkumarkarn&style=flat-square&color=blue" alt="Profile views"/>
+</p>
