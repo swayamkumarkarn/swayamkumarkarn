@@ -20,36 +20,30 @@
 <br/>
 
 <!-- Social Links -->
-
 <p align="center">
   <a href="https://github.com/swayamkumarkarn">
-    <img src="https://cdn.simpleicons.org/github/181717" width="34" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:swayamkumarkarn@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/swayamkumarkarn/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" style="filter: invert(29%) sepia(97%) saturate(1637%) hue-rotate(190deg) brightness(95%) contrast(96%);" width="34" alt="LinkedIn"/> </a>
-  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/swayamkumarkarn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://x.com/swayamkumarkarn">
-    <img src="https://cdn.simpleicons.org/x/181717" width="34" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/swayamkumarkarn/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <!-- &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/swayamkumarkarn/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="34" alt="LeetCode"/>
+  <!-- <a href="https://leetcode.com/u/swayamkumarkarn/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/swayamkumarkarn">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="34" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a> -->
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@swayamkumarkarn">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="34" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
