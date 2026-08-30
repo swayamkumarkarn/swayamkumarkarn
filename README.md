@@ -39,14 +39,14 @@
   <a href="https://www.instagram.com/swayamkumarkarn/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <!-- &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/swayamkumarkarn/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="34" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/swayamkumarkarn">
     <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="34" alt="Codeforces"/>
-  </a>
+  </a> -->
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@swayamkumarkarn">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="34" alt="YouTube"/>
