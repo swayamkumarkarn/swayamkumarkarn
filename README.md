@@ -1,144 +1,298 @@
 <h1 align="center">Hey, I'm Swayam Kumar Karn 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+%2F+LLM+Engineer;Distributed+Systems+Builder;Turning+messy+problems+into+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;AI+%2F+LLM+Engineer;Distributed+Systems+Builder;Building+systems+that+scale;Turning+ideas+into+production+software" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I build <b>scalable software, AI-powered products, and distributed systems</b> —  
-  from the interface users touch to the infrastructure handling millions of records behind it.
+  <b>Software Engineering × AI × Cloud × Data</b>
 </p>
 
 <p align="center">
-  <b>Software Engineering × AI × Cloud × Data</b><br/>
+  I build <b>scalable software, AI-powered products, and distributed systems</b> —
+  from the interfaces users interact with to the infrastructure processing millions of records behind the scenes.
+</p>
+
+<p align="center">
   <i>Turning messy, real-world problems into systems that are fast, reliable, scalable — and actually useful.</i>
 </p>
 
+<br/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/swayam-kumar-karn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="38" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/swayamkumarkarn">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="38" alt="X"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:swayamkumarkarn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/swayamkumarkarn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="38" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=swayamkumarkarn&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
 <p align="center">
-  🌍 <b>Open to Software Engineer / Full-Stack / AI Engineer opportunities</b>
+  🌍 <b>Open to Software Engineer · Full-Stack · AI Engineer opportunities</b>
 </p>
 
 ---
 
-### 🧑‍💻 What I Do
+## 🧑‍💻 What I Do
 
-I enjoy problems where **scale, performance, and intelligence** matter:
+I enjoy engineering problems where **scale, performance, and intelligence** intersect.
 
-- 🤖 Build AI/LLM applications and intelligent, agentic workflows
-- ⚡ Design event-driven, distributed backend systems
-- 📊 Build ETL pipelines for large-scale datasets
-- ☁️ Architect cloud infrastructure on AWS & Azure
-- 🔎 Build search, knowledge-base, and OSINT systems
-- 🚀 Optimize APIs, databases, and data-processing pipelines
-- 🖥️ Ship full-stack products from idea → production
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Engineering
+
+* LLM applications
+* AI agents & workflows
+* RAG systems
+* Semantic search
+* Knowledge bases
+* Intelligent automation
+
+</td>
+<td width="50%">
+
+### ⚡ Backend & Systems
+
+* Distributed systems
+* Event-driven architecture
+* REST & WebSockets
+* API design
+* Background processing
+* Performance optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Data Engineering
+
+* Large-scale ETL
+* Data ingestion
+* Data transformation
+* Search infrastructure
+* SQL optimization
+* Millions of records
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud & Infrastructure
+
+* AWS
+* Azure
+* GCP
+* Serverless
+* Docker
+* CI/CD
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔥 Currently Exploring
+## 🔥 Current Focus
 
-| Focus Area              | What I'm Exploring                                                                |
-| ----------------------- | --------------------------------------------------------------------------------- |
-| 🤖 AI & Agentic Systems | LLM agents, multi-agent architectures, RAG, semantic search, autonomous workflows |
-| ☁️ Distributed Systems  | Event-driven architectures, queues, serverless systems, scalable backend infra    |
-| 📊 Data at Scale        | Pipelines that stay reliable as they process millions of records                  |
+```text
+AI & Agentic Systems    ████████████████████  Exploring
+Distributed Systems     ██████████████████░░  Building
+Data Engineering        █████████████████░░░  Scaling
+Cloud Infrastructure    ████████████████░░░░  Architecting
+System Design            ███████████████░░░░░  Learning
+```
+
+### 🤖 AI & Agentic Systems
+
+Exploring **LLM agents, multi-agent architectures, RAG, semantic search and autonomous workflows**.
+
+### ⚡ Distributed Systems
+
+Going deeper into **event-driven architectures, queues, serverless systems and scalable backend infrastructure**.
+
+### 📊 Data at Scale
+
+Building pipelines and systems designed to remain reliable while processing **millions of records**.
 
 ---
 
-### 🏗️ Featured Work
+# 🏗️ Featured Work
 
-**🤖 AI-Powered Fundraising Platform**  
-End-to-end systems for an AI-driven fundraising platform — nonprofit discovery, donor intelligence, intelligent search, document processing, AI knowledge bases, and LLM-powered workflows.  
-`Python` · `Node.js` · `FastAPI` · `Azure OpenAI` · `Gemini` · `AWS` · `Azure` · `SQL` · `DynamoDB`
+### 🤖 AI-Powered Fundraising Platform
 
-**🌎 Large-Scale Nonprofit Data Platform**  
-Data pipelines and infrastructure for a nonprofit repository spanning millions of records across multiple countries — large-scale ingestion, cleaning & transformation, ETL, search optimization, DynamoDB modeling, and SQL performance tuning.  
+Built AI-powered systems for nonprofit discovery, donor intelligence, intelligent search, document processing, AI knowledge bases and LLM-powered workflows.
+
+`Python` · `Node.js` · `FastAPI` · `Azure OpenAI` · `Gemini` · `AWS` · `Azure` · `DynamoDB`
+
+---
+
+### 🌎 Large-Scale Nonprofit Data Platform
+
+Built data pipelines and infrastructure for a nonprofit repository spanning **millions of records across multiple countries**.
+
+Worked on large-scale ingestion, transformation, ETL pipelines, search optimization, DynamoDB modeling and SQL performance tuning.
+
 `Python` · `AWS` · `DynamoDB` · `Azure SQL` · `ETL`
 
-**⚡ Event-Driven Architecture**  
-Asynchronous systems built around EventBridge → SQS → Lambda → Database — decoupling services, offloading background processing, and improving scalability.
+---
 
-**🖥️ Remote Mouse**  
-Cross-computer remote mouse system over LAN — real-time movement, click & double-click, scrolling, device discovery, WebSocket communication, server/client modes, global keyboard shortcuts, and Electron desktop app.  
-`Electron` · `Node.js` · `WebSocket` · `PowerShell` · `RobotJS`
+### ⚡ Event-Driven Systems
 
-**🏛️ Citizen & Government Platforms**  
-Production systems for citizen registration, payment gateways, OTP authentication, admin dashboards, and analytics at large user traffic scale.  
+Designed asynchronous architectures around:
+
+```text
+EventBridge
+     ↓
+    SQS
+     ↓
+  Lambda
+     ↓
+ Database
+```
+
+Used event-driven architecture to decouple services, process background workloads and improve system scalability.
+
+---
+
+### 🖥️ Remote Mouse
+
+Built a cross-computer remote mouse system capable of controlling another machine over LAN.
+
+**Features**
+
+`Real-time Movement` · `Click` · `Scroll` · `Device Discovery` · `WebSockets` · `Server/Client` · `Electron`
+
+**Stack:** `Electron` · `Node.js` · `WebSocket` · `PowerShell` · `RobotJS`
+
+---
+
+### 🏛️ Citizen & Government Platforms
+
+Built production systems involving citizen registration, payment gateways, OTP authentication, dashboards and analytics.
+
 `Next.js` · `Node.js` · `Razorpay` · `GCP` · `MSG91`
 
 ---
 
-### 🧰 Tech Stack
+# 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,nextjs,fastapi,express,electron&perline=9" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp&perline=10"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis,aws,azure,gcp,docker&perline=9" />
+### Frontend & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,electron,tailwind&perline=10"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,powershell,vscode,postman,nginx&perline=7" />
+### AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgres,mongodb,redis&perline=10"/>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=swayamkumarkarn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamkumarkarn&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+<b>Azure OpenAI</b> · <b>Gemini</b> · <b>LangChain</b> · <b>RAG</b> · <b>Vector Search</b> · <b>Semantic Search</b> · <b>AI Agents</b>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamkumarkarn&theme=tokyonight&hide_border=true" />
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx,githubactions&perline=10"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swayamkumarkarn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+### Tools
 
----
-
-### 🧠 Beyond Code
-
-When I'm not debugging production systems, I'm probably:
-
-🎤 Writing & recording rap and hip-hop · 🎵 Producing indie music · ✍️ Writing poetry · 💡 Building random side projects
-
-I enjoy creating things — whether it's software, music, or ideas.
-
----
-
-### 🤝 Let's Connect
-
-If you're building something interesting around **AI, distributed systems, data, or developer tools**, I'd love to talk.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/swayam-kumar-karn">LinkedIn</a> ·
-  <a href="https://x.com/swayamkumarkarn">X</a> ·
-  <a href="mailto:swayamkumarkarn@gmail.com">Email</a> ·
-  <a href="https://github.com/swayamkumarkarn">GitHub</a>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,powershell,vscode,postman&perline=10"/>
 </p>
 
 ---
 
+# 📊 GitHub Analytics
+
 <p align="center">
-  <i>"Build things that are useful. Make them scale. Then build something crazier."</i>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=swayamkumarkarn&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamkumarkarn&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=swayamkumarkarn&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamkumarkarn&theme=tokyonight" alt="GitHub Profile Details"/>
+</p>
+
+---
+
+# 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swayamkumarkarn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 🧠 Beyond Code
+
+When I'm not building software, I'm probably creating something else.
+
+🎤 **Rap & Hip-Hop**
+🎵 **Indie Music Production**
+✍️ **Poetry & Writing**
+💡 **Random Side Projects**
+
+I enjoy creating things — whether it's **software, music, or ideas.**
+
+---
+
+# 🤝 Let's Build Something
+
+If you're working on something interesting around:
+
+**AI · Distributed Systems · Data · Developer Tools · Cloud Infrastructure**
+
+I'd love to hear about it.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swayam-kumar-karn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/swayamkumarkarn">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:swayamkumarkarn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build things that are useful. Make them scale. Then build something crazier.”</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swayamkumarkarn&style=flat-square&color=58A6FF" alt="Profile views"/>
 </p>
