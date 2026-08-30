@@ -43,146 +43,49 @@
 
 ---
 
-## 🧑‍💻 What I Do
+### 🧑‍💻 What I Do
 
-I enjoy engineering problems where **scale, performance, and intelligence** intersect.
+I enjoy problems where **scale, performance, and intelligence** matter:
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Engineering
-
-* LLM applications
-* AI agents & workflows
-* RAG systems
-* Semantic search
-* Knowledge bases
-* Intelligent automation
-
-</td>
-<td width="50%">
-
-### ⚡ Backend & Systems
-
-* Distributed systems
-* Event-driven architecture
-* REST & WebSockets
-* API design
-* Background processing
-* Performance optimization
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Data Engineering
-
-* Large-scale ETL
-* Data ingestion
-* Data transformation
-* Search infrastructure
-* SQL optimization
-* Millions of records
-
-</td>
-<td width="50%">
-
-### ☁️ Cloud & Infrastructure
-
-* AWS
-* Azure
-* GCP
-* Serverless
-* Docker
-* CI/CD
-
-</td>
-</tr>
-</table>
+- 🤖 Build AI/LLM applications and intelligent, agentic workflows
+- ⚡ Design event-driven, distributed backend systems
+- 📊 Build ETL pipelines for large-scale datasets
+- ☁️ Architect cloud infrastructure on AWS & Azure
+- 🔎 Build search, knowledge-base, and OSINT systems
+- 🚀 Optimize APIs, databases, and data-processing pipelines
+- 🖥️ Ship full-stack products from idea → production
 
 ---
 
-## 🔥 Current Focus
+### 🔥 Currently Exploring
 
-```text
-AI & Agentic Systems    ████████████████████  Exploring
-Distributed Systems     ██████████████████░░  Building
-Data Engineering        █████████████████░░░  Scaling
-Cloud Infrastructure    ████████████████░░░░  Architecting
-System Design            ███████████████░░░░░  Learning
-```
-
-### 🤖 AI & Agentic Systems
-
-Exploring **LLM agents, multi-agent architectures, RAG, semantic search and autonomous workflows**.
-
-### ⚡ Distributed Systems
-
-Going deeper into **event-driven architectures, queues, serverless systems and scalable backend infrastructure**.
-
-### 📊 Data at Scale
-
-Building pipelines and systems designed to remain reliable while processing **millions of records**.
+| Focus Area              | What I'm Exploring                                                                |
+| ----------------------- | --------------------------------------------------------------------------------- |
+| 🤖 AI & Agentic Systems | LLM agents, multi-agent architectures, RAG, semantic search, autonomous workflows |
+| ☁️ Distributed Systems  | Event-driven architectures, queues, serverless systems, scalable backend infra    |
+| 📊 Data at Scale        | Pipelines that stay reliable as they process millions of records                  |
 
 ---
 
-# 🏗️ Featured Work
+### 🏗️ Featured Work
 
-### 🤖 AI-Powered Fundraising Platform
+**🤖 AI-Powered Fundraising Platform**  
+End-to-end systems for an AI-driven fundraising platform — nonprofit discovery, donor intelligence, intelligent search, document processing, AI knowledge bases, and LLM-powered workflows.  
+`Python` · `Node.js` · `FastAPI` · `Azure OpenAI` · `Gemini` · `AWS` · `Azure` · `SQL` · `DynamoDB`
 
-Built AI-powered systems for nonprofit discovery, donor intelligence, intelligent search, document processing, AI knowledge bases and LLM-powered workflows.
-
-`Python` · `Node.js` · `FastAPI` · `Azure OpenAI` · `Gemini` · `AWS` · `Azure` · `DynamoDB`
-
----
-
-### 🌎 Large-Scale Nonprofit Data Platform
-
-Built data pipelines and infrastructure for a nonprofit repository spanning **millions of records across multiple countries**.
-
-Worked on large-scale ingestion, transformation, ETL pipelines, search optimization, DynamoDB modeling and SQL performance tuning.
-
+**🌎 Large-Scale Nonprofit Data Platform**  
+Data pipelines and infrastructure for a nonprofit repository spanning millions of records across multiple countries — large-scale ingestion, cleaning & transformation, ETL, search optimization, DynamoDB modeling, and SQL performance tuning.  
 `Python` · `AWS` · `DynamoDB` · `Azure SQL` · `ETL`
 
----
+**⚡ Event-Driven Architecture**  
+Asynchronous systems built around EventBridge → SQS → Lambda → Database — decoupling services, offloading background processing, and improving scalability.
 
-### ⚡ Event-Driven Systems
+**🖥️ Remote Mouse**  
+Cross-computer remote mouse system over LAN — real-time movement, click & double-click, scrolling, device discovery, WebSocket communication, server/client modes, global keyboard shortcuts, and Electron desktop app.  
+`Electron` · `Node.js` · `WebSocket` · `PowerShell` · `RobotJS`
 
-Designed asynchronous architectures around:
-
-```text
-EventBridge
-     ↓
-    SQS
-     ↓
-  Lambda
-     ↓
- Database
-```
-
-Used event-driven architecture to decouple services, process background workloads and improve system scalability.
-
----
-
-### 🖥️ Remote Mouse
-
-Built a cross-computer remote mouse system capable of controlling another machine over LAN.
-
-**Features**
-
-`Real-time Movement` · `Click` · `Scroll` · `Device Discovery` · `WebSockets` · `Server/Client` · `Electron`
-
-**Stack:** `Electron` · `Node.js` · `WebSocket` · `PowerShell` · `RobotJS`
-
----
-
-### 🏛️ Citizen & Government Platforms
-
-Built production systems involving citizen registration, payment gateways, OTP authentication, dashboards and analytics.
-
+**🏛️ Citizen & Government Platforms**  
+Production systems for citizen registration, payment gateways, OTP authentication, admin dashboards, and analytics at large user traffic scale.  
 `Next.js` · `Node.js` · `Razorpay` · `GCP` · `MSG91`
 
 ---
@@ -254,45 +157,29 @@ Built production systems involving citizen registration, payment gateways, OTP a
 
 ---
 
-# 🧠 Beyond Code
+### 🧠 Beyond Code
 
-When I'm not building software, I'm probably creating something else.
+When I'm not debugging production systems, I'm probably:
 
-🎤 **Rap & Hip-Hop**
-🎵 **Indie Music Production**
-✍️ **Poetry & Writing**
-💡 **Random Side Projects**
+🎤 Writing & recording rap and hip-hop · 🎵 Producing indie music · ✍️ Writing poetry · 💡 Building random side projects
 
-I enjoy creating things — whether it's **software, music, or ideas.**
+I enjoy creating things — whether it's software, music, or ideas.
 
 ---
 
-# 🤝 Let's Build Something
+### 🤝 Let's Connect
 
-If you're working on something interesting around:
+If you're building something interesting around **AI, distributed systems, data, or developer tools**, I'd love to talk.
 
-**AI · Distributed Systems · Data · Developer Tools · Cloud Infrastructure**
-
-I'd love to hear about it.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swayam-kumar-karn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/swayamkumarkarn">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:swayamkumarkarn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/swayam-kumar-karn">LinkedIn</a> ·
+  <a href="https://x.com/swayamkumarkarn">X</a> ·
+  <a href="mailto:swayamkumarkarn@gmail.com">Email</a> ·
+  <a href="https://github.com/swayamkumarkarn">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Build things that are useful. Make them scale. Then build something crazier.”</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swayamkumarkarn&style=flat-square&color=58A6FF" alt="Profile views"/>
+  <i>"Build things that are useful. Make them scale. Then build something crazier."</i>
 </p>
