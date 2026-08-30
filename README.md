@@ -77,59 +77,28 @@ I enjoy engineering problems where **scale, performance, and intelligence** inte
 
 ---
 
-## 🏗️ Featured Work
+### 🏗️ Featured Work
 
-### 🤖 AI-Powered Fundraising Platform
+**🤖 AI-Powered Fundraising Platform**  
+End-to-end systems for an AI-driven fundraising platform — nonprofit discovery, donor intelligence, intelligent search, document processing, AI knowledge bases, and LLM-powered workflows.  
+`Python` · `Node.js` · `FastAPI` · `Azure OpenAI` · `Gemini` · `AWS` · `Azure` · `SQL` · `DynamoDB`
 
-Built AI-powered systems for nonprofit discovery, donor intelligence, intelligent search, document processing, AI knowledge bases and LLM-powered workflows.
-
-`Python` · `Node.js` · `FastAPI` · `Azure OpenAI` · `Gemini` · `AWS` · `Azure` · `DynamoDB`
-
----
-
-### 🌎 Large-Scale Nonprofit Data Platform
-
-Built data pipelines and infrastructure for a nonprofit repository spanning **millions of records across multiple countries**.
-
-Worked on large-scale ingestion, transformation, ETL pipelines, search optimization, DynamoDB modeling and SQL performance tuning.
-
+**🌎 Large-Scale Nonprofit Data Platform**  
+Data pipelines and infrastructure for a nonprofit repository spanning millions of records across multiple countries — large-scale ingestion, cleaning & transformation, ETL, search optimization, DynamoDB modeling, and SQL performance tuning.  
 `Python` · `AWS` · `DynamoDB` · `Azure SQL` · `ETL`
 
----
+**⚡ Event-Driven Architecture**  
+Asynchronous systems built around EventBridge → SQS → Lambda → Database — decoupling services, offloading background processing, and improving scalability.
 
-### ⚡ Event-Driven Systems
+**🖥️ Remote Mouse**  
+Cross-computer remote mouse system over LAN — real-time movement, click & double-click, scrolling, device discovery, WebSocket communication, server/client modes, global keyboard shortcuts, and Electron desktop app.  
+`Electron` · `Node.js` · `WebSocket` · `PowerShell` · `RobotJS`
 
-Designed asynchronous architectures around:
+**🏛️ Membership & Citizen Registration Platform**
 
-```text
-EventBridge
-     ↓
-    SQS
-     ↓
-  Lambda
-     ↓
- Database
-```
+Built a large-scale Bishnoi Samaj membership registration portal where users could register digitally, complete payment, verify their identity through OTP, and receive a unique membership ID.
 
-Used event-driven architecture to decouple services, process background workloads and improve system scalability.
-
----
-
-### 🖥️ Remote Mouse
-
-Built a cross-computer remote mouse system capable of controlling another machine over LAN.
-
-**Features**
-
-`Real-time Movement` · `Click` · `Scroll` · `Device Discovery` · `WebSockets` · `Server/Client` · `Electron`
-
-**Stack:** `Electron` · `Node.js` · `WebSocket` · `PowerShell` · `RobotJS`
-
----
-
-### 🏛️ Citizen & Government Platforms
-
-Built production systems involving citizen registration, payment gateways, OTP authentication, dashboards and analytics.
+The platform included registration workflows, membership management, payment processing, OTP verification, admin dashboards, and analytics, designed to handle **300K+ users**.
 
 `Next.js` · `Node.js` · `Razorpay` · `GCP` · `MSG91`
 
