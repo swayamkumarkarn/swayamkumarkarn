@@ -26,6 +26,10 @@
     <img src="https://cdn.simpleicons.org/github/181717" width="34" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="mailto:swayamkumarkarn@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/swayamkumarkarn/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" style="filter: invert(29%) sepia(97%) saturate(1637%) hue-rotate(190deg) brightness(95%) contrast(96%);" width="34" alt="LinkedIn"/> </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/swayamkumarkarn">
@@ -34,10 +38,6 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/swayamkumarkarn/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:swayamkumarkarn@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/swayamkumarkarn/">
